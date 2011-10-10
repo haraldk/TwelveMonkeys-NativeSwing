@@ -1,0 +1,3 @@
+- Rename c.t.s.osx.cocoa -> appkit (move other classes to corresponding package)
+- Create WindowUtil class, with resizeTo method, that does live resize on OS X
+- Split into different modules for generic and platform specifics
